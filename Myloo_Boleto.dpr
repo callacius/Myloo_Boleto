@@ -62,12 +62,8 @@ uses
   smtpsend in 'Synapse\smtpsend.pas',
   snmpsend in 'Synapse\snmpsend.pas',
   sntpsend in 'Synapse\sntpsend.pas',
-  ssl_cryptlib in 'Synapse\ssl_cryptlib.pas',
-  ssl_libssh2 in 'Synapse\ssl_libssh2.pas',
   ssl_openssl in 'Synapse\ssl_openssl.pas',
   ssl_openssl_lib in 'Synapse\ssl_openssl_lib.pas',
-  ssl_sbb in 'Synapse\ssl_sbb.pas',
-  ssl_streamsec in 'Synapse\ssl_streamsec.pas',
   synachar in 'Synapse\synachar.pas',
   synacode in 'Synapse\synacode.pas',
   synacrypt in 'Synapse\synacrypt.pas',
@@ -80,7 +76,6 @@ uses
   synautil in 'Synapse\synautil.pas',
   synsock in 'Synapse\synsock.pas',
   tlntsend in 'Synapse\tlntsend.pas',
-  tzutil in 'Synapse\tzutil.pas',
   Myloo.Mail in 'Myloo.Mail.pas';
 
 {$R *.res}

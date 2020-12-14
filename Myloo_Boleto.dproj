@@ -164,12 +164,8 @@
         <DCCReference Include="Synapse\smtpsend.pas"/>
         <DCCReference Include="Synapse\snmpsend.pas"/>
         <DCCReference Include="Synapse\sntpsend.pas"/>
-        <DCCReference Include="Synapse\ssl_cryptlib.pas"/>
-        <DCCReference Include="Synapse\ssl_libssh2.pas"/>
         <DCCReference Include="Synapse\ssl_openssl.pas"/>
         <DCCReference Include="Synapse\ssl_openssl_lib.pas"/>
-        <DCCReference Include="Synapse\ssl_sbb.pas"/>
-        <DCCReference Include="Synapse\ssl_streamsec.pas"/>
         <DCCReference Include="Synapse\synachar.pas"/>
         <DCCReference Include="Synapse\synacode.pas"/>
         <DCCReference Include="Synapse\synacrypt.pas"/>
@@ -182,7 +178,6 @@
         <DCCReference Include="Synapse\synautil.pas"/>
         <DCCReference Include="Synapse\synsock.pas"/>
         <DCCReference Include="Synapse\tlntsend.pas"/>
-        <DCCReference Include="Synapse\tzutil.pas"/>
         <DCCReference Include="Myloo.Mail.pas"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
